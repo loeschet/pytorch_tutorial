@@ -1,3 +1,0 @@
-[submodule "pytorch-tutorial-lfs"]
-	path = pytorch-tutorial-lfs
-	url = https://github.com/loeschet/pytorch-tutorial-lfs.git
